@@ -455,3 +455,7 @@ p code, li code {
 div.card-text {
     overflow: hidden;
 }
+
+.highlight {
+    margin-top: 0.5rem;
+}
