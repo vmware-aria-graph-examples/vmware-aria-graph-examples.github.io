@@ -262,6 +262,13 @@
     padding-bottom: 5px;
 }
 
+.clr-card-header-image {
+    float: left;
+    max-height: 1.4rem !important;
+    max-width: 2rem !important;
+    padding-right: 8px;
+}
+
 .clr-card-authors {
     width: 100%;
     color: gray;
@@ -443,4 +450,8 @@ p code, li code {
 .content-area ol li::marker {
     font-weight: bold;
     padding-right: 10px;
+}
+
+div.card-text {
+    overflow: hidden;
 }
